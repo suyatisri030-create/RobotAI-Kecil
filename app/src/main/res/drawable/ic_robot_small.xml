@@ -1,0 +1,53 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Latar belakang -->
+    <path
+        android:fillColor="#071A35"
+        android:pathData="M54,2 A52,52 0,1 0,54 106 A52,52 0,1 0,54 2" />
+
+    <!-- Antena -->
+    <path
+        android:strokeColor="#38D9FF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M54,19 L54,29" />
+
+    <path
+        android:fillColor="#38D9FF"
+        android:pathData="M54,10 A5,5 0,1 0,54 20 A5,5 0,1 0,54 10" />
+
+    <!-- Kepala robot -->
+    <path
+        android:fillColor="#123D68"
+        android:strokeColor="#38D9FF"
+        android:strokeWidth="3"
+        android:pathData="M29,34 Q29,29 35,29 L73,29 Q79,29 79,35 L79,70 Q79,77 72,77 L36,77 Q29,77 29,70 Z" />
+
+    <!-- Mata -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M39,45 A5,5 0,1 0,39 55 A5,5 0,1 0,39 45" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M69,45 A5,5 0,1 0,69 55 A5,5 0,1 0,69 45" />
+
+    <!-- Mulut -->
+    <path
+        android:strokeColor="#38D9FF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M43,65 L65,65" />
+
+    <!-- Telinga -->
+    <path
+        android:strokeColor="#38D9FF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M24,46 L29,46 M79,46 L84,46" />
+
+</vector>
+
